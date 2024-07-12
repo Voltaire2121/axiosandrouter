@@ -4,6 +4,7 @@ import './nav-bar.css'
 const pages = [
   { id: 1, name: 'Dad Jokes', link: 'DadJokes' },
   { id: 2, name: 'Client List', link: 'ClientList' },
+  { id: 3, name: 'Post User', link: 'PostUser' },
 ]
 
 const NavBar = () => {

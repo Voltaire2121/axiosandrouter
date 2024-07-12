@@ -1,0 +1,38 @@
+.post-user {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.post-user h1 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.post-user div {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.post-user div input {
+  height: 30px;
+  padding-left: 5px;
+  border: 1px solid darkblue;
+  border-radius: 5px;
+}
+
+.post-user div button {
+  height: 30px;
+  background-color: darkblue;
+  color: white;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

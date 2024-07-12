@@ -1,0 +1,24 @@
+.dad-jokes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+.dad-jokes button {
+  margin-top: 20px;
+  width: 100px;
+  padding: 20px;
+  font-family: sans-serif;
+  border-radius: 10px;
+  background-color: darkblue;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.dad-jokes p {
+  margin-top: 20px;
+}

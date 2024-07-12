@@ -1,0 +1,19 @@
+.client-list-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+  font-family: sans-serif;
+  flex-direction: column;
+}
+
+.client-list-main h1 {
+  margin-bottom: 30px;
+}
+
+.client-list-main .central-div {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
